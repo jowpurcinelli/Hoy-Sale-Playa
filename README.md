@@ -1,4 +1,10 @@
 # Hoy-Sale-Playa
+<p align="center">
+   <img src="./hoysaleplayaLogo.png" alt="Logo" width="280"/>
+</p>
+
+
+
 Hoy sale playa? és un nuevo proyecto autoral para la creación de una plataforma donde proporcionará acceso a informaciones acerca de la calidad de las playas de Montevideo
 
 
