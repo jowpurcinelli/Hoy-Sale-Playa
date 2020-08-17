@@ -11,7 +11,10 @@ Hoy sale playa? és un nuevo proyecto autoral para la creación de una plataform
 
 # Main ideas
 
-- Crear un Web Site con una estratégia Mobile Firt, que muestre todas las playas de Montevideo junto con la calidad de Agua en tiempo real.
+- Crear un Web Site con una estratégia Mobile Firt, que muestre todas las playas de Montevideo junto con la calidad del Agua en tiempo real.
+- Integracion con apps de movilidad (comoir, moovit, uber, etc...)
+- 
+
 
 
 
